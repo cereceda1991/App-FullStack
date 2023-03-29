@@ -13,11 +13,11 @@ Este es un proyecto CRUD (Create, Read, Update, Delete) de usuarios construido c
 
 Aquí hay algunas capturas de pantalla del proyecto:
 
-![Formulario de registro](./frontend/src/assets/Captura1.PNG)
+![Formulario de registro](./client/src/assets/Captura1.PNG)
 
-![Nodal de Actulizacion exitosa](./frontend/src/assets/Captura2.PNG)
+![Nodal de Actulizacion exitosa](./client/src/assets/Captura2.PNG)
 
-![Listado de Usuarios](./frontend/src/assets/Captura3.PNG)
+![Listado de Usuarios](./client/src/assets/Captura3.PNG)
 # Instalación
 Para clonar y ejecutar este proyecto, necesitarás Git y Node.js (que incluye npm) instalados en tu computadora. Desde tu terminal, sigue estos pasos:
 
