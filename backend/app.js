@@ -5,7 +5,6 @@ const routerUser = require('./routes/userRoutes.route');
 const routerRepair = require('./routes/repairRoutes.route');
 
 const app = express(); // Creamos una nueva instancia de Express
-
 app.use(express.json()); // Añadimos el middleware para procesar datos en formato JSON
 
 // Configuramos el middleware CORS para permitir solicitudes desde http://localhost:5173
